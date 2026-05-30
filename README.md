@@ -243,8 +243,8 @@ I have also published a detailed Medium article explaining every concept in a be
 
 Feel free to connect with me and explore more Machine Learning & Data Science projects.
 
-🔗 **LinkedIn:** YOUR_LINKEDIN_LINK  
-🔗 **GitHub:** YOUR_GITHUB_LINK  
+🔗 **LinkedIn:** https://www.linkedin.com/posts/saisourav-panigrahi_machinelearning-datascience-datapreprocessing-share-7466568282523865089-QjBZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNwn4QBGwfbhY2KqFQgojIO099iwSyR5OQ  
+🔗 **GitHub:** https://github.com/SaiSourav2004/data-preprocessing-in-machine-learning  
 🔗 **Medium:** https://medium.com/@panigrahisaisourav
 
 ---
