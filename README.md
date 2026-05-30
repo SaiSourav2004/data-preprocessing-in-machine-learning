@@ -11,7 +11,7 @@ Transforming Raw Data into Machine Learning Ready Data 🚀
     <img src="https://img.shields.io/badge/Read_on-Medium-black?style=for-the-badge&logo=medium" />
   </a>
 
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/saisourav-panigrahi">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
